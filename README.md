@@ -2,7 +2,7 @@
 
 ### Django & React Full Stack Web App
 
-#### Install Required Python Modules
+#### 1. Install Required Python Modules
 
 ```bash
 
